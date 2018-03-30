@@ -107,7 +107,7 @@ object SeatingAllocator extends SeatingAllocator {
 
   val cliParser = {
     new scopt.OptionParser[SeatingConfig]("seating") {
-      head("Seating Arragement Constructor", s"0.4")
+      head("Seating Arragement Constructor", s"(v${BuildInfo.version})")
 
 
       version("version").text("Prints the version of the command line tool.")
