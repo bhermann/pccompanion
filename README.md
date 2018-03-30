@@ -2,6 +2,8 @@
 
 A set of useful tools for a PC chair.
 
+The current release is: [v0.4](https://github.com/bhermann/pccompanion/releases/tag/v0.4)
+
 ## Seating Arrangement
 
 When conducting a PC meeting in person, two reviewers should not sit next to each other, if a one is a reviewer on a paper and the other one is named as a conflicting reviewer for this paper. 
