@@ -15,7 +15,7 @@ Download three CSV exports from HotCRP:
 
 1. **The list of PC assignments:** In the list of papers, select any paper discussed in the PC meeting, click on *Download*, select *PC assignments*, and click on *Go*.
 2. **The list of PC conflicts:** In the list of papers, select any paper discussed in the PC meeting, click on *Download*, select *PC conflicts*, and click on *Go*.
-3. **The extended PC info:** In the list of users, select the *All reviewiers* option and click on *Go*. Then select all entries, click on *Download*, select *PC info*, and click on *Go*.
+3. **The extended PC info:** In the list of users, select the *All reviewiers* option and click on *Go*. Then select all reviewers participating in the PC meeting, click on *Download*, select *PC info*, and click on *Go*.
 
 Start the pccompanion executable using the three downloaded files:
 
