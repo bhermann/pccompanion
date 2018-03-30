@@ -6,7 +6,7 @@ The current release is: [v0.4](https://github.com/bhermann/pccompanion/releases/
 
 ## Seating Arrangement
 
-When conducting a PC meeting in person, two reviewers should not sit next to each other, if a one is a reviewer on a paper and the other one is named as a conflicting reviewer for this paper. 
+When conducting a PC meeting in person, two reviewers should not sit next to each other, if one is a reviewer on a paper and the other one is named as a conflicting reviewer for this paper. 
 Using this tool a seating arrangement with minimal conflicts can be computed. 
 
 ### Usage
