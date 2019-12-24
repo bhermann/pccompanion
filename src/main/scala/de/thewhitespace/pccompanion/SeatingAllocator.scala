@@ -106,7 +106,7 @@ class SeatingAllocator {
 object SeatingAllocator extends SeatingAllocator {
 
   val cliParser = {
-    new scopt.OptionParser[SeatingConfig]("seating") {
+    new scopt.OptionParser[SeatingConfig]("pccompanion") {
       head("Seating Arragement Constructor", s"(v${BuildInfo.version})")
 
 
